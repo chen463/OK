@@ -9,12 +9,12 @@
 			"searchable": 0,
 			"changeable": 1,
 			"indexs":1,
-			"ext": ".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tokenm.json$$$./lib/douban.json"
+			"ext": ".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json$$$.https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/douban.json"
 		},
 		{"key":"TGDouban","name":"电报|豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
 			"ext":{
-				"token":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tokenm.json",
-				"json":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tgsearch.json",
+				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
@@ -38,8 +38,8 @@
 			"changeable": 0,
 			"timeout": 120,
 			"ext":{
-				"token":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tokenm.json",
-				"json":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/youtube.json",
+				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/youtube.json",
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
 				"codecs":"",
@@ -78,7 +78,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 60,
-			"ext": ".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+			"ext": ".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$.https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/wogg.json$$$XIAOMI"
 		},
 		{"key":"Local","name":"本地|分享","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的|分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
@@ -140,8 +140,8 @@
 			"name": "电视|直播",
 			"type": 3,
 			"searchable": 0,
-			"api": ".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/live2vod.js",
-			"ext": ".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/feimaolive.json"
+			"api": ".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/live2vod.js",
+			"ext": ".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/feimaolive.json"
 		},
 		{
 			"key": "FirstAid",
@@ -158,8 +158,8 @@
 		},
 		{"key":"TGYunPanLocal","name":"电报|频道","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
 			"ext":{
-				"token":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tokenm.json",
-				"json":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tgsearch.json",
+				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
@@ -174,8 +174,8 @@
 		},
 		{"key":"TGYunPan","name":"电报|群组","type":3,"api":"csp_TGYunPan","timeout":120, 
 			"ext":{
-				"token":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tokenm.json",
-				"json":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tgsearch.json",
+				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
@@ -196,7 +196,7 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"ext":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/tokenm.json",
+			"ext":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
@@ -242,7 +242,7 @@
         },      
         {
             "name": "888ok",
-            "url": "https://cdn.jsdelivr.net/gh/ffmking/tv1@main/888.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
             "type": 0,
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/?ch={name}&date={date}",
@@ -259,7 +259,7 @@
         {
             "name": "888judy",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/ffmking/tv1@main/888.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
             "ua": "judy/5.2.1",
             "playerType": 2,
             "timeout": 10,
@@ -285,7 +285,7 @@
         {
             "name": "广东频道",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/yewengood/myzb@main/live.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yewengood/myzb/main/live.txt",
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
