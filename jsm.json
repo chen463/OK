@@ -1,5 +1,5 @@
 {
-	"spider":"https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/pg.jar",
+	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/pg.jar",
 	"sites":[
 		{
 			"key": "豆瓣",
