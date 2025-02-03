@@ -257,9 +257,9 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },                
         {
-      "name": "mytvsuper",
+      "name": "888",
       "type": 0,
-      "url": "https://www.mytvsuper.com.mp/m3u/judy.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/ffmking/tv1@main/888.txt",
       "ua": "judy/5.2.1",
       "playerType": 2,
       "timeout": 10,
