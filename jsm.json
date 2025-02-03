@@ -241,8 +241,8 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },      
         {
-            "name": "stream直播",
-            "url": "http://127.0.0.1:10079/p/0/proxy/https://www.stream-link.org/playlist.m3u?token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262",
+            "name": "888",
+            "url": "https://cdn.jsdelivr.net/gh/ffmking/tv1@main/888.txt",
             "type": 0,
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/?ch={name}&date={date}",
