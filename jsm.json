@@ -294,7 +294,7 @@
             "name": "广东频道",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yewengood/myzb/main/live.txt",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "ua": "okhttp/3.15",
             "playerType": 2,
             "timeout": 10,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -304,7 +304,7 @@
             "name": "广东频道1",
             "type": 0,
             "url": "https://slink.ltd/https://raw.githubusercontent.com/jmheqiao/freetv/main/gdiptv.txt",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -312,7 +312,7 @@
             "name": "广东频道2",
             "type": 0,
             "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/gddx_fofa.txt",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },        
@@ -320,7 +320,7 @@
             "name": "广东频道3",
             "type": 0,
             "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdtv/main/speedtest/gdtv_fofa.txt",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },                   		    
@@ -328,7 +328,7 @@
 				"name": "广东频道4",
 				"type": 0,
 				"url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/TV/master/output/result.txt",
-				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
