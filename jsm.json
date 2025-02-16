@@ -213,20 +213,20 @@
 		}],
 		"lives":[
 		{
-            "name": "公用IPTV",
+            "name": "国内最强直播",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/tv.txt" ,
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3ut" ,
             "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },      
 		{
 				"name": "自用IPTV",
 				"type": 0,
 				"url": "https://slink.ltd/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/iptv.txt",
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -237,17 +237,10 @@
             "type": 0,
             "url": "http://127.0.0.1:9978/file/TVBox/iptv.txt",
             "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },      
-        {
-            "name": "888ok",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
-            "type": 0,
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/http://content.stream-link.org/epg/guide.xml/logo/{name}.png"
-        },        
+        
         {
             "name": "Judy线路",
             "type": 0,
@@ -257,14 +250,14 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },                
         {
-            "name": "888judy",
+            "name": "广东频道",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yewengood/myzb/main/live.txt",
             "ua": "judy/5.2.1",
             "playerType": 2,
             "timeout": 10,
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "Gather.电视直播",
@@ -275,28 +268,28 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "Gather.网络直播",
+            "name": "广东频道2",
             "type": 0,
-            "url": "https://tv.iill.top/m3u/Live",
+            "url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/gddx_fofa.txt",
             "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },        
         {
-            "name": "广东频道",
+            "name": "广东频道3",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yewengood/myzb/main/live.txt",
+            "url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/yewengood/gdtv/main/speedtest/gdtv_fofa.txt",
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },                   		    
 			{
-				"name": "最强国内直播",
+				"name": "广东频道4",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/yewengood/TV/master/output/result.txt,
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
