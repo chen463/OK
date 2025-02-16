@@ -11,82 +11,11 @@
 			"indexs":1,
 			"ext": ".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json$$$.https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/douban.json"
 		},
-		{"key":"TGDouban","name":"电报|豆瓣","type":3,"api":"csp_TGDouban","timeout":120, 
-			"ext":{
-				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
-				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
-				"proxy":"noproxy",
-				"douban":".https://cdn.jsdelivr.net/gh/SuperNinjap/iptv@main/lib/douban.json",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 0.7
-			}
-		},
-		{
-			"key":"Youtube",
-			"name":"油管|视频",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 120,
-			"ext":{
-				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
-				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-		{
-			"key":"bili",
-			"name":"哔哩|哔哩",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":"buvid3=1DB540D5-E3E2-86BD-98FC-43F31A1469FE97833infoc; b_nut=1711759397; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; _uuid=101CE38FD-10B10B-7453-71096-6F417EDE1FE299072infoc; buvid4=BBB27CCE-63BB-C513-2170-74CDEDBBF87E99880-124033000-Pay4DNrPIuf7YJchpA9pX782mVSo6dZ8zYI7Qekoo+bBsNw9x1gHqaEVmTWo3n14; buvid_fp=5dc7da1683344089b8c62acb0aef5118; rpdid=0zbfvS8SE9|IV8mzRE9|2Hu|3w1RQmOI; bsource=search_google; b_lsid=C61010A210E_1912D54BE99; SESSDATA=203a235f%2C1738594445%2Cc1ec0%2A82CjA6Na4OmZ0ynlnN354m4kKFnQjydsSqx8zrY1uh2vr0cypu-h2xjeHFE8Ardwy__xYSVlNBT1dnQUxBWmxIRmNqM2F6WjZtYzRMZDRVeVJDWDlES0p6X0NjekNpRkd5Z1NvYjIxRjZXZ21VZ2JvLXJZcVV2VFlrbDNOcHNFLUhWVHNpdzhSQnV3IIEC; bili_jct=bf5a6b8ef9a3e4e9925a636425fabb7a; DedeUserID=476091398; DedeUserID__ckMd5=27900e9fc073f43b; sid=5qc7ftpl"
-			}
-		},		
-		{"key":"Guanying","name":"观影|网盘","type":3,"api":"csp_Guanying","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$./lib/guanying.txt"},
-		{"key":"校长影视","name":"校长|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
-		{"key":"Wogg","name":"玩偶|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
-		{"key":"蜡笔网盘","name":"蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
-		{"key":"Mogg","name":"木偶|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://www.mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
-		{
-			"key": "小米网盘",
-			"name": "小米|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": ".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$.https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/wogg.json$$$XIAOMI"
-		},
-		{"key":"Local","name":"本地|分享","type":3,"api":"csp_Local"},
-		{"key":"PushShare","name":"我的|分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
+
+		
+		
+		
+		
 		{"key":"AlistShare","name":"网盘|合集","type":3,"api":"csp_AlistShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":120, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1",
 			"style": {
 				"type": "list",
@@ -156,38 +85,8 @@
 				"ratio": 3.8
 			}
 		},
-		{"key":"TGYunPanLocal","name":"电报|频道","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
-			"ext":{
-				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
-				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-		{"key":"TGYunPan","name":"电报|群组","type":3,"api":"csp_TGYunPan","timeout":120, 
-			"ext":{
-				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
-				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://127.0.0.1:10199",
-				"tgsearch_media_url":"http://127.0.0.1:10199",
-				"channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
-				"proxy":"noproxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
+		
+		
 		{"key": "push_agent","name": "推送|资源","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "网盘配置",
