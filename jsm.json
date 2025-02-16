@@ -51,7 +51,7 @@
 		{"key":"TGYunPan","name":"群组|搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
 			"ext":{
 				"token":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
-				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tokenm.json",
+				"json":".https://gh-proxy.com/https://raw.githubusercontent.com/SuperNinjap/iptv/main/lib/tgsearch.json",
 				"keywords":"名称,片名,推荐",
 				"tgsearch_url":"http://127.0.0.1:10199",
 				"tgsearch_media_url":"http://127.0.0.1:10199",
