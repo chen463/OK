@@ -287,7 +287,7 @@
             "type": 0,
             "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=660938530679045",
             "ua": "judy/5.2.1",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },                
         {
