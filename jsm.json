@@ -278,7 +278,7 @@
 			{
 				"name": "广东频道4",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/TV/master/output/result.txt,
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/TV/master/output/result.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png",
