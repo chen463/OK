@@ -258,16 +258,16 @@
             "type": 0,
             "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u" ,
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
         },      
 		{
 				"name": "自用IPTV",
 				"type": 0,
 				"url": "https://slink.ltd/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/iptv.txt",
 				"ua": "okhttp/3.15",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://diyp1111.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
 				"catchup": {
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
@@ -278,8 +278,8 @@
             "type": 0,
             "url": "http://127.0.0.1:9978/file/TVBox/iptv.txt",
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },      
         
         {
@@ -297,16 +297,16 @@
             "ua": "okhttp/3.15",
             "playerType": 2,
             "timeout": 10,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
         {
             "name": "广东频道1",
             "type": 0,
             "url": "https://slink.ltd/https://raw.githubusercontent.com/jmheqiao/freetv/main/gdiptv.txt",
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
         {
             "name": "广东频道2",
@@ -321,16 +321,16 @@
             "type": 0,
             "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdtv/main/speedtest/gdtv_fofa.txt",
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },                   		    
 			{
 				"name": "广东频道4",
 				"type": 0,
 				"url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/TV/master/output/result.txt",
 				"ua": "okhttp/3.15",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png",
+				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://diyp1111.112114.xyz/logo/{name}.png",
 				"catchup": {
 					"type": "append",
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
