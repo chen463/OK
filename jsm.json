@@ -368,13 +368,13 @@
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "FMM.m3u(-1天回看)",
+				"name": "My Iptv",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/proxy/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/result.txt",
 				
 				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+				"epg": "http://.1diyp1111.112114.xyz/?ch={name}&date=DATE1SUB",
+				"logo": "https://diyp1111.1121di14.xyz/logo/{name}.png"
 			},
 			{
 				"name": "FMM.m3u(-2天回看)",
