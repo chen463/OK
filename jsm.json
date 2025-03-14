@@ -327,9 +327,9 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },                   		    
 			{
-				"name": "广东频道4",
+				"name": "frxz751113",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/TV/master/output/result.txt",
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/frxz751113/live/main/网络收集.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://diyp1111.112114.xyz/logo/{name}.png",
@@ -388,7 +388,7 @@
 				{
 				"name": "lbxxxtw2/hk txt",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/hkdvb/main/hk.txt",
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/hkdvb/main/new.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
@@ -404,9 +404,9 @@
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "DIYP php",
+				"name": "jgdsz zb2026",
 				"type": 0,
-				"url": "http://iptv.diyp.site/diyp.php",
+				"url": "https://www.notabug.org/jgyzb/jgdsz/raw/master/zb2026/2026yrys.txt",
 				
 				"ua": "okhttp/3.15",
 				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
