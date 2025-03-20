@@ -322,6 +322,15 @@
 	},
 
 	{
+				"name": "广东网页",
+                                 "type": 0,
+                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/GDTV_web.txt",
+                                  "ua": "judy/5.2.1",   
+                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},
+		
+	{
 				"name": "frxz751113",
 				"type": 0,
 				"url": "https://slink.ltd/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/网络收集.txt",
