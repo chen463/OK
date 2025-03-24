@@ -1,22 +1,22 @@
 广东频道网页,#genre#
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
-广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
-广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
-广东影视,webview://https://www.gdtv.cn/tvChannelDetail/51
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
+广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
+广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
+广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
+广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
+广东影视,video://https://www.gdtv.cn/tvChannelDetail/51
 广东台经典剧,https://www.gdtv.cn/tvChannelDetail/100
-4k超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
-广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
+4k超高清,video://https://www.gdtv.cn/tvChannelDetail/16
+广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
 
-佳通卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
-纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
-广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
-GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
-GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
-GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
-岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
+佳通卡通,video://https://www.gdtv.cn/tvChannelDetail/66
+纪录片,video://https://www.gdtv.cn/tvChannelDetail/94
+广东移动,video://https://www.gdtv.cn/tvChannelDetail/74
+GRTN健康频道,video://https://www.gdtv.cn/tvChannelDetail/99
+GRTN文化频道,video://https://www.gdtv.cn/tvChannelDetail/75
+GRTN生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
+GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
+岭南戏曲,video://https://www.gdtv.cn/tvChannelDetail/15
 
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
@@ -176,7 +176,7 @@ NHK WORLD JAPAN,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 CNN News(美國有線電視新聞網),http://fortv.cc:8080/9bkEhY/284787/57398
-CNBC(美國全國廣播公司商業頻道英語),http://125.227.210.55:8152/webviewInput/play.ts
+CNBC(美國全國廣播公司商業頻道英語),http://125.227.210.55:8152/videoInput/play.ts
 NHK_world,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 全天新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 BBC News(英國廣播公司新聞頻道),https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
@@ -185,16 +185,16 @@ BBC News(英國廣播公司新聞頻道),https://vs-hls-push-uk-live.akamaized.n
 BBC News(英國廣播公司新聞頻道),https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 BBC News(英國廣播公司新聞頻道),https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-CNN News(美國有線電視新聞網),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/webview_4_1064000.m3u8
-CNN News(美國有線電視新聞網),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/webview_3_1464000.m3u8
-CNN News(美國有線電視新聞網),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/webview_2_1964000.m3u8
-CNN News(美國有線電視新聞網),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/webview_0_3564000.m3u8
+CNN News(美國有線電視新聞網),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/video_4_1064000.m3u8
+CNN News(美國有線電視新聞網),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/video_3_1464000.m3u8
+CNN News(美國有線電視新聞網),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/video_2_1964000.m3u8
+CNN News(美國有線電視新聞網),https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/video_0_3564000.m3u8
 CNN News(美國有線電視新聞網),https://cnn-cnninternational-1-eu.rakuten.wurl.tv/a34479f36e18de8ab839234f2a59ab7c.m3u8
 KCTV(朝鮮勞動黨中央電視台),https://tv.nknews.org/tvdash/stream.mpd?checkedby:iptvcat.net
 KCTV(朝鮮勞動黨中央電視台),https://tv.nknews.org/tvdash/stream.mpd?checkedby:iptvcat.com
 KCTV(朝鮮勞動黨中央電視台),https://tv.nknews.org/tvdash/stream.mpd
 
-KCTV(高畫質測試),webview://https://m.twitch.tv/chuo_tv
+KCTV(高畫質測試),video://https://m.twitch.tv/chuo_tv
 
 VOA中文台(美國VOA衛視華語頻道),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 VOA Farsi(美國VOA衛視波斯語頻道),https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
@@ -204,7 +204,7 @@ Live Now FOX（美國福克斯新聞直播頻道）,https://fox-foxnewsnow-samsu
 
 Bloomberg(美國彭博財經頻道),https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
-NBC News(美國環球新聞頻道),https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/webview_0_6596000.m3u8
+NBC News(美國環球新聞頻道),https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/video_0_6596000.m3u8
 ABC News(美國廣播公司新聞頻道),https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 
 CBN News(美國基督教廣播網新聞頻道),https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
@@ -215,13 +215,13 @@ ABC News Live(美國廣播公司新聞直播頻道),http://cfd-v4-service-channe
 ABC News Live(美國廣播公司新聞直播頻道),http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&checkedby:iptvcat.com
 ABC News(美國廣播公司新聞頻道),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 日テレ 24News(日本電視24小時新聞台),https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-日テレ 24News(日本電視24小時新聞台),webview://https://news.ntv.co.jp/live
+日テレ 24News(日本電視24小時新聞台),video://https://news.ntv.co.jp/live
 
 
 
 
 
-ABC News(澳大利亞全國廣播公司新聞頻道),https://content-aapm1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/b.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=eb16dcd47de94e1f8a125ea0b7b43333&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&ad.rdp=0&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3Deb16dcd4-7de9-4e1f-8a12-5ea0b7b43333%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%26plt%3Dmobile%20web%26d_us_privacy%3D&ad.adUnit=/abc-news/abcnews.com/web/webview&ad.paln=AQzzBGQE3JYCbFvfGjY3eUQ9yZC4Eq_U01L_PMXwSVpaLiMBsm6ANC7pyGTiMzzq2nWwKn1f3QWgntkk2c5xWTO5k3Oa5NftQDhsZUWU8JNJEY2K4ByxlnNHqk4wOPqeu60nxlaPh2yX4bFs37dDN18ZjBJhCFpmBGXX4u7WITpiXKs8C5PHDz1nOIwcvQBa0sSWiMG9ezkdMYhgarJ_eF92vUu4J_Tc7_STHX75I_6dkaSZfQsQlvviKlJeDBaSJJ49LKrhs_8pKqXc5cDZMaJnqa5iSrbIEfYh6O5crzkYxCjSKuqBAwBMw88laom-2M7f4nUtzvMlcAkhHUQgSej4BZjS5kvlDWig24xpyxGYExHH6bB57BeydHsBRG3emNNYbfv-CtsupY7GaGABHMTqimJw7zapbudoqqJ2pHNTKb5qSSdsx7C3kvGlXtoMwbzrrAg3YqwX2Wae_EhYDAN7hazhNUzelHOqtH5ViMaPQ6wKlHyNfm7WzVkTtbM8uU77xFL9EkuzCWbMyLhWAHlesHZ3AZYiifugP0SNgnmKkzqL9_m63mEqq0HKDOkMlRLt3DKtZ4Y4muXgpjdpE1JTEIoVMb7mWrCPMa40nxpcXtcMmIHJIbZ09ka0XeDI2EBALWhBbsUJQ2x4K6zL14p9XhUv-UYbsiApYh9VbH4Wy5wzflmJFYXFFYZof8QVwhBLSK6l4dEyWpuz6_-Tc-j-8wxCU2Sdg2gb3t9qDoYMb9cd-0q-ppbuZvlIVAvkuUKQ5kk0GMeu_suo8-bF364OGOg5qvq52VXF74i_45PADSw-aviMwPgYH8i-o8Yjej5gFYD2Snw3GBv1huvKXi1nJS6QylYlBUIT2-IwT3oQzpPNueWbEPbcrttGFYQzn6Te9VYtJ8qRQmoDs1LnQX0awWby4Jgf_XkrfOwYIQ..&pbs=030dc8670a504de6be57917afdc9a9e4
+ABC News(澳大利亞全國廣播公司新聞頻道),https://content-aapm1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/b.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=eb16dcd47de94e1f8a125ea0b7b43333&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&ad.rdp=0&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3Deb16dcd4-7de9-4e1f-8a12-5ea0b7b43333%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%26plt%3Dmobile%20web%26d_us_privacy%3D&ad.adUnit=/abc-news/abcnews.com/web/video&ad.paln=AQzzBGQE3JYCbFvfGjY3eUQ9yZC4Eq_U01L_PMXwSVpaLiMBsm6ANC7pyGTiMzzq2nWwKn1f3QWgntkk2c5xWTO5k3Oa5NftQDhsZUWU8JNJEY2K4ByxlnNHqk4wOPqeu60nxlaPh2yX4bFs37dDN18ZjBJhCFpmBGXX4u7WITpiXKs8C5PHDz1nOIwcvQBa0sSWiMG9ezkdMYhgarJ_eF92vUu4J_Tc7_STHX75I_6dkaSZfQsQlvviKlJeDBaSJJ49LKrhs_8pKqXc5cDZMaJnqa5iSrbIEfYh6O5crzkYxCjSKuqBAwBMw88laom-2M7f4nUtzvMlcAkhHUQgSej4BZjS5kvlDWig24xpyxGYExHH6bB57BeydHsBRG3emNNYbfv-CtsupY7GaGABHMTqimJw7zapbudoqqJ2pHNTKb5qSSdsx7C3kvGlXtoMwbzrrAg3YqwX2Wae_EhYDAN7hazhNUzelHOqtH5ViMaPQ6wKlHyNfm7WzVkTtbM8uU77xFL9EkuzCWbMyLhWAHlesHZ3AZYiifugP0SNgnmKkzqL9_m63mEqq0HKDOkMlRLt3DKtZ4Y4muXgpjdpE1JTEIoVMb7mWrCPMa40nxpcXtcMmIHJIbZ09ka0XeDI2EBALWhBbsUJQ2x4K6zL14p9XhUv-UYbsiApYh9VbH4Wy5wzflmJFYXFFYZof8QVwhBLSK6l4dEyWpuz6_-Tc-j-8wxCU2Sdg2gb3t9qDoYMb9cd-0q-ppbuZvlIVAvkuUKQ5kk0GMeu_suo8-bF364OGOg5qvq52VXF74i_45PADSw-aviMwPgYH8i-o8Yjej5gFYD2Snw3GBv1huvKXi1nJS6QylYlBUIT2-IwT3oQzpPNueWbEPbcrttGFYQzn6Te9VYtJ8qRQmoDs1LnQX0awWby4Jgf_XkrfOwYIQ..&pbs=030dc8670a504de6be57917afdc9a9e4
 
 
 
@@ -272,7 +272,7 @@ HBOHD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&c
 体育频道,#genre#
 
 八段锦1,https://vd4.bdstatic.com/mda-phs3ky6piyqt1fn2/sc/cae_h264/1693230067699248200/mda-phs3ky6piyqt1fn2.mp4
-八段锦2,https://sns-webview-al.xhscdn.com/01e38d67512b8a510183700384e05fd171_259.mp4
+八段锦2,https://sns-video-al.xhscdn.com/01e38d67512b8a510183700384e05fd171_259.mp4
 
 CCTV5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
