@@ -163,7 +163,14 @@ CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
+凤凰卫视,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台4K,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 
 
 
