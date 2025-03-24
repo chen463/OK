@@ -1,13 +1,13 @@
 广东频道网页,#genre#
-广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
-广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
-广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
-广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
-广东影视,video://https://www.gdtv.cn/tvChannelDetail/51
-广东台经典剧,https://www.gdtv.cn/tvChannelDetail/100
-4k超高清,video://https://www.gdtv.cn/tvChannelDetail/16
-广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
+广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
+广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
+广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
+广东影视,webview://https://www.gdtv.cn/tvChannelDetail/51
+广东台经典剧,webview:https://www.gdtv.cn/tvChannelDetail/100
+广东4k超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
 
 佳通卡通,video://https://www.gdtv.cn/tvChannelDetail/66
 纪录片,video://https://www.gdtv.cn/tvChannelDetail/94
