@@ -372,10 +372,7 @@
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
-
-
-
-			
+		
 	{
 				"name": "自用IPTV",
 				"type": 0,
@@ -388,12 +385,7 @@
 					"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
 				          }
 	},
-       
-	
-         
-	
 
-	
 		
 	{
 				"name": "frxz751113",
@@ -458,9 +450,6 @@
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
-			
-			
-	 
 			
 	{
             "name": "mytvsuper",
