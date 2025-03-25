@@ -263,9 +263,16 @@
                                    "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                    "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
  	},
-			
 	{
-				"name": "MY IPTV",
+            "name": "广东频道",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/gddx_fofa.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },        		
+	{
+				"name": "央视卫视",
 				"type": 0,
 				"url": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/result.txt",
 				
@@ -284,14 +291,7 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },  
              
-	{
-            "name": "广东频道",
-            "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/gddx_fofa.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },        
+	
         
 	{
 				"name": "8888",
@@ -310,7 +310,38 @@
 				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	 },
-			
+	{
+          "name": "freetv-TW",
+          "type":"0",
+          "pass": true,
+          "url": "https://freetv.fun/test_channels_taiwan_original_new.txt",
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },{
+          "name": "freetv-HK",
+          "type":"0",
+          "pass": true,
+          "url":"https://freetv.fun/test_channels_hong_kong_original_new.txt",
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
+	{
+          "name": "freetv-MC",
+          "type":"0",
+          "pass": true,
+          "url": "https://freetv.fun/test_channels_macau_original_new.txt",
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
+
+{
+          "name": "freetv-singapore",
+          "type":"0",
+          "pass": true,
+          "url": "https://freetv.fun/test_channels_singapore_original_new.txt",
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        }					
 	{
 				"name": "jgdsz zb2026",
 				"type": 0,
@@ -428,29 +459,7 @@
         },
 			
 			
-	 {
-          "name": "freetv-TW",
-          "type":"0",
-          "pass": true,
-          "url": "https://freetv.fun/test_channels_taiwan_original_new.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "freetv-HK",
-          "type":"0",
-          "pass": true,
-          "url":"https://freetv.fun/test_channels_hong_kong_original_new.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },{
-          "name": "freetv-MC",
-          "type":"0",
-          "pass": true,
-          "url": "https://freetv.fun/test_channels_macau_original_new.txt",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-			
+	 
 			
 	{
             "name": "mytvsuper",
