@@ -428,7 +428,28 @@
         },
 			
 			
-	
+	 {
+          "name": "freetv-TW",
+          "type":"0",
+          "pass": true,
+          "url": "https://freetv.fun/test_channels_taiwan_original_new.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "freetv-HK",
+          "type":"0",
+          "pass": true,
+          "url":"https://freetv.fun/test_channels_hong_kong_original_new.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "freetv-MC",
+          "type":"0",
+          "pass": true,
+          "url": "https://freetv.fun/test_channels_macau_original_new.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
 			
 			
 	{
