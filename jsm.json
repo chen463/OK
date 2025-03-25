@@ -342,7 +342,7 @@
           "url": "https://freetv.fun/test_channels_singapore_original_new.txt",
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        }，					
+        },				
 	{
 				"name": "jgdsz zb2026",
 				"type": 0,
