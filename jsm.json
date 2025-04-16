@@ -290,6 +290,16 @@
 				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	},
+
+	{
+            "name": "港台 lugw27 home-iptv AKTV",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/lugw27/home-iptv/main/aktv.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
+			
 	{
 				"name": "zheng197600 港台",
                                  "type": 0,
@@ -446,14 +456,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },        
        
-	{
-            "name": "lugw27 home-iptv AKTV",
-            "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/lugw27/home-iptv/main/aktv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
+	
 			
 	{
             "name": "lugw27 home-iptv HKDVB",
