@@ -254,7 +254,14 @@
 	],
 		"lives":[
 
-
+{
+            "name": "广东频道",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/gddx_fofa.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },   
        {
  				"name": "广东网页",
                                   "type": 0,
@@ -389,14 +396,7 @@
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },				
 	
-	{
-            "name": "广东频道",
-            "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/gddx_fofa.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },   
+	
 			
 	{
             "name": "广东频道2",
