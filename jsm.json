@@ -298,14 +298,7 @@
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	},
 
- {
-				"name": "港台jgdsz zb2026dylb",
-				"type": 0,
-				"url": "https://www.notabug.org/jgyzb/jgdsz/raw/master/zb2026/dylb2026.txt",
-				"ua": "okhttp/3.15",
-				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	},
+ 
 
 			
 	{
@@ -417,7 +410,14 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
 			
-	
+	{
+				"name": "港台jgdsz zb2026dylb",
+				"type": 0,
+				"url": "https://www.notabug.org/jgyzb/jgdsz/raw/master/zb2026/dylb2026.txt",
+				"ua": "okhttp/3.15",
+				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},
 		
 	{
 				"name": "自用IPTV",
