@@ -300,24 +300,17 @@
 
  
 
-			
+	
 	{
-            "name": "港台 lugw27 home-iptv AKTV",
-            "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/lugw27/home-iptv/main/aktv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
-			
-	{
-				"name": "zheng197600 港台",
-                                 "type": 0,
-                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/zheng197600/tvbox/main/tv/电视直播.txt",
-                                  "ua": "judy/5.2.1",   
-                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	},		
+				"name": "lbxxxtw2/hk txt",
+				"type": 0,
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/iptv/master/output/tv.txt",
+				
+				"ua": "okhttp/3.15",
+				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	 },		
+		
 			
 	{
 				"name": "港台 frxz751113",
@@ -341,7 +334,22 @@
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	 },
 
-	
+	{
+				"name": "zheng197600 港台",
+                                 "type": 0,
+                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/zheng197600/tvbox/main/tv/电视直播.txt",
+                                  "ua": "judy/5.2.1",   
+                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},			
+	{
+            "name": "港台 lugw27 home-iptv AKTV",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/lugw27/home-iptv/main/aktv.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
 			
 	{
 				"name": "8888",
@@ -447,15 +455,7 @@
                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	},
 	
-	{
-				"name": "lbxxxtw2/hk txt",
-				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/iptv/master/output/tv.txt",
-				
-				"ua": "okhttp/3.15",
-				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	 },
+	
 			
 	{
             "name": "lugw27 IPV4",
