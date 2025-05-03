@@ -341,7 +341,7 @@
 	{
 				"name": "lbxxxtw2 hk txt",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/iptv/master/output/tv.txt",
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/iptv/refs/heads/master/output/ipv4/result.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
