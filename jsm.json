@@ -468,7 +468,7 @@
 	{
 				"name": "lbxxxtw2/HKm3u",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/hkdvb/main/hkdvb.m3u",
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/iptv/master/output/tv.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
