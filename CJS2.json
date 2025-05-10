@@ -9,7 +9,7 @@
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"
         },
         {
             "key": "https://github.com/fish2018/PG",
@@ -20,7 +20,7 @@
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"
         },
         {
             "key": "Youtube",
@@ -32,8 +32,8 @@
             "changeable": 0,
             "timeout": 120,
             "ext": {
-                "token": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
-                "json": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/youtube.json",
+                "token": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+                "json": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/youtube.json",
                 "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
                 "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
                 "codecs": "",
@@ -52,7 +52,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -73,7 +73,7 @@
             "filterable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./js/alistjar.json"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/js/alistjar.json"
         },
         {
             "key": "PushShare",
@@ -85,7 +85,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/pushshare.txt$$$db$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/pushshare.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -101,7 +101,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 120,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -117,7 +117,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/alishare.txt$$$db$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/alishare.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -133,7 +133,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/alishare.ebook.txt$$$db$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/alishare.ebook.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -149,7 +149,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/quarkshare.txt",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/quarkshare.txt",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -165,7 +165,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 120,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/123share.txt$$$db$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/123share.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -181,7 +181,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 120,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/189share.txt$$$db$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/189share.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -197,7 +197,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/thundershare.txt",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/thundershare.txt",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -213,7 +213,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/ucshare.txt$$$db$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/ucshare.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -229,7 +229,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 120,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/115share.txt$$$db$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/115share.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -245,7 +245,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/pikpakclass.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/pikpakclass.json.txt.gz",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/pikpakclass.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/pikpakclass.json.txt.gz",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -261,7 +261,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/sambashare.txt"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/sambashare.txt"
         },
         {
             "key": "FirstAid",
@@ -297,8 +297,8 @@
             "api": "csp_TGYunPanLocal",
             "timeout": 120,
             "ext": {
-                "token": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
-                "json": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tgsearch.json",
+                "token": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+                "json": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tgsearch.json",
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "https://tg.252035.xyz",
                 "tgsearch_media_url": "https://tg.252035.xyz",
@@ -318,8 +318,8 @@
             "api": "csp_TGYunPan",
             "timeout": 120,
             "ext": {
-                "token": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
-                "json": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tgsearch.json",
+                "token": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+                "json": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tgsearch.json",
                 "keywords": "名称,片名,推荐",
                 "tgsearch_url": "https://tg.252035.xyz",
                 "tgsearch_media_url": "https://tg.252035.xyz",
@@ -341,7 +341,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/guanying.txt$$$GUANYING"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.gying.net$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/guanying.txt$$$GUANYING"
         },
         {
             "key": "FourKFM",
@@ -352,7 +352,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/4kfm.txt$$$4KFM"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/4kfm.txt$$$4KFM"
         },
         {
             "key": "校长影视",
@@ -363,7 +363,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
         },
         {
             "key": "Wogg",
@@ -374,7 +374,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$WOGG"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$WOGG"
         },
         {
             "key": "yydsys",
@@ -385,7 +385,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$WNLG"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$WNLG"
         },
         {
             "key": "蜡笔网盘",
@@ -396,7 +396,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.goimg.asia/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$LABI"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.goimg.asia/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$LABI"
         },
         {
             "key": "Mogg",
@@ -407,7 +407,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://123.666291.xyz/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$MOGG"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://123.666291.xyz/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$MOGG"
         },
         {
             "key": "DAWO",
@@ -418,7 +418,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://149.88.87.18:6688/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$DAWO"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://149.88.87.18:6688/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$DAWO"
         },
         {
             "key": "BAIJIA",
@@ -429,7 +429,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://cj.jiexi.news/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$BAIJIA"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://cj.jiexi.news/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$BAIJIA"
         },
         {
             "key": "QINGYING",
@@ -440,7 +440,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://revohd.com/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$QINGYING"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://revohd.com/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$QINGYING"
         },
         {
             "key": "Xiaomi",
@@ -451,7 +451,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.mucpan.cc/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$XIAOMI"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.mucpan.cc/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$XIAOMI"
         },
         {
             "key": "至臻|网盘",
@@ -462,7 +462,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$ZHIZHEN"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/wogg.json$$$ZHIZHEN"
         },
         {
             "key": "Hmxz",
@@ -473,7 +473,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://haimian.eu.org/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/hmxz.txt$$$HMXZ",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://haimian.eu.org/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/hmxz.txt$$$HMXZ",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -488,7 +488,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://leijing.xyz/$$$noproxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/leijing.txt$$$LEIJING",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://leijing.xyz/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/leijing.txt$$$LEIJING",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -514,7 +514,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/moli.json"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/moli.json"
         },
         {
             "key": "Ppxzy",
@@ -525,7 +525,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
         },
         {
             "key": "ddys",
@@ -536,7 +536,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
         },
         {
             "key": "美剧迷",
@@ -547,7 +547,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 120,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"
         },
         {
             "key": "Libvio",
@@ -558,7 +558,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.libvio.fun/$$$null"
         },
         {
             "key": "Hdhive",
@@ -569,7 +569,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 120,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$../hdhive.txt"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$../hdhive.txt"
         },
         {
             "key": "TianYiSou",
@@ -580,7 +580,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy"
         },
         {
             "key": "YunPan",
@@ -588,7 +588,7 @@
             "type": 3,
             "api": "csp_YunPan",
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy$$$1"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy$$$1"
         },
         {
             "key": "YingSo",
@@ -596,7 +596,7 @@
             "type": 3,
             "api": "csp_YingSo",
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json"
         },
         {
             "key": "混合盘",
@@ -604,7 +604,7 @@
             "type": 3,
             "api": "csp_HunHePan",
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -616,7 +616,7 @@
             "type": 3,
             "api": "csp_EightEight",
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://662688.xyz$$$",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://662688.xyz$$$",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -631,7 +631,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy"
         },
         {
             "key": "盘友圈",
@@ -639,7 +639,7 @@
             "type": 3,
             "api": "csp_Panyq",
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$site$$$proxy"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$site$$$proxy"
         },
         {
             "key": "易搜",
@@ -647,7 +647,7 @@
             "type": 3,
             "api": "csp_YiSo",
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/yiso.txt",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/yiso.txt",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -659,7 +659,7 @@
             "type": 3,
             "api": "csp_MiaoSou",
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -674,7 +674,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -689,7 +689,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -704,7 +704,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/panta.txt$$$PANTA",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/panta.txt$$$PANTA",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -719,7 +719,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
         },
         {
             "key": "PikaSo",
@@ -730,7 +730,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.pikaso.top/$$$null",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.pikaso.top/$$$null",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -745,7 +745,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$.https://cnb.cool/fish2018/pg/-/git/raw/master/lib/qianfan.txt$$$1"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/qianfan.txt$$$1"
         },
         {
             "key": "YunSo",
@@ -756,7 +756,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.yunso.net$$$null$$$1",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.yunso.net$$$null$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -771,7 +771,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy$$$1"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$null$$$proxy$$$1"
         },
         {
             "key": "新6V",
@@ -781,7 +781,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
         },
         {
             "key": "黑木耳",
@@ -840,7 +840,7 @@
             "type": 3,
             "api": "csp_UpYun",
             "timeout": 30,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -971,11 +971,11 @@
             "key": "drpy_js_Alist",
             "name": "网盘 | Alist[js]",
             "type": 3,
-            "api": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/alist.min.js",
+            "api": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/alist.min.js",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/alist.json"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/js/alist.json"
         },
         {
             "key": "MV_vod",
@@ -1020,7 +1020,7 @@
             "api": "csp_Push",
             "changeable": 0,
             "timeout": 30,
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json"
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json"
         },
         {
             "key": "應用商店",
@@ -1036,8 +1036,8 @@
             "name": "🐼️┃电视┃直播",
             "type": 3,
             "searchable": 0,
-            "api": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/live2vod.js",
-            "ext": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/feimaolive.json"
+            "api": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/live2vod.js",
+            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/feimaolive.json"
         }
     ],
     "lives": [
@@ -1128,7 +1128,7 @@
         {
             "name": "BIPTV(IPV6,可回看)",
             "type": 0,
-            "url": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/biptv.txt",
+            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/biptv.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://diyp1111.112114.xyz/logo/{name}.png"
@@ -1232,7 +1232,7 @@
         {
             "name": "YTB直播",
             "type": 0,
-            "url": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/ytblive.m3u",
+            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/ytblive.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://diyp1111.112114.xyz/logo/{name}.png"
@@ -1280,7 +1280,7 @@
         {
             "name": "YTLive",
             "type": 0,
-            "url": ".https://cnb.cool/fish2018/pg/-/git/raw/master/lib/yo21.txt"
+            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/yo21.txt"
         },
         {
             "group": "redirect",
