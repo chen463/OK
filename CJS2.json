@@ -1,5 +1,5 @@
 {
-    "spider": ".https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+    "spider": "https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
     "sites": [
         {
             "key": "豆瓣",
