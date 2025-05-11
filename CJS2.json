@@ -1041,18 +1041,7 @@
         }
     ],
     "lives": [
-        {
-            "name": "最强国内直播(合并版)",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
+        
         {
             "name": "最强国内直播",
             "type": 0,
@@ -1065,18 +1054,7 @@
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
         },
-        {
-            "name": "最强国内直播(EPG-1天回看)",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE1SUB",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
+       
         {
             "name": "BJYD",
             "type": 0,
@@ -1170,15 +1148,15 @@
                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	},
 	
-	
-       {
-            "name": "港台 极速直播",
-            "type": 0,
-            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/live_ipv4.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
+	{
+          "name": "港台 666直播",
+          "type":"0",
+          "pass": true,
+          "url": "http://api.mytv666.top/lives/free.php?type=txt",
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
+       
 
 
 	{
@@ -1204,14 +1182,7 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
 			
-	{
-          "name": "港台 666直播",
-          "type":"0",
-          "pass": true,
-          "url": "http://api.mytv666.top/lives/free.php?type=txt",
-          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
+	
 	{
             "name": " 港台chao直播",
             "type": 0,
@@ -1241,6 +1212,15 @@
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
        
+      
+     {
+            "name": "Gather.电视直播",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
+        },
 
        {
 				"name": "8888",
@@ -1295,7 +1275,15 @@
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
         },
-        
+ 
+      {
+            "name": "港台 极速直播",
+            "type": 0,
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/live_ipv4.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
+        },       
         
 
 
@@ -1408,12 +1396,24 @@
                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	 },		
 		
+        {
+            "name": "最强国内直播(合并版)",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
 
 
+       
 
-
-
-{
+   
+      {
 				"name": "自用IPTV",
 				"type": 0,
 				"url": "https://slink.ltd/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/iptv.txt",
@@ -1426,7 +1426,18 @@
 				          }
 	},
 
-		
+		 {
+            "name": "最强国内直播(EPG-1天回看)",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE1SUB",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
 	
 
 	{
@@ -1609,14 +1620,7 @@
             "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
         },
         
-       {
-            "name": "Gather.电视直播",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
-        },
+       
         {
             "name": "Gather.网络直播",
             "type": 0,
