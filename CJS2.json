@@ -1089,51 +1089,7 @@
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
         },
-        {
-            "name": "BJYD(EPG-1天回看)",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE1SUB",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "BJYD(EPG-2天回看)",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE2SUB",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "BJYD(EPG-3天回看)",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE3SUB",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "BIPTV(IPV6,可回看)",
-            "type": 0,
-            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/biptv.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
-        },
-
+        
        {
             "name": "广东频道",
             "type": 0,
@@ -1167,14 +1123,7 @@
  
 			
 	
-	{
-				"name": "8888",
-                                 "type": 0,
-                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
-                                  "ua": "judy/5.2.1",   
-                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	},
+	
 			
 	{
             "name": "咪咕直播",
@@ -1190,14 +1139,7 @@
         
 			
 	
-	{
-          "name": "港台 666直播",
-          "type":"0",
-          "pass": true,
-          "url": "http://api.mytv666.top/lives/free.php?type=txt",
-          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
+	
 	{
           "name": "香港直播",
           "type":"0",
@@ -1206,14 +1148,7 @@
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
-	{
-          "name": "港台WorkTV直播",
-          "type":"0",
-          "pass": true,
-          "url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt",
-          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
+	
 
        {
           "name": "港台 jun直播",
@@ -1269,8 +1204,23 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
 			
-	
-	
+	{
+          "name": "港台 666直播",
+          "type":"0",
+          "pass": true,
+          "url": "http://api.mytv666.top/lives/free.php?type=txt",
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
+	{
+            "name": " 港台chao直播",
+            "type": 0,
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
+        },
+        
         {
             "name": "iptv365直播",
             "type": 0,
@@ -1282,9 +1232,24 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
 	
-        
+        {
+          "name": "港台WorkTV直播",
+          "type":"0",
+          "pass": true,
+          "url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt",
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
        
 
+       {
+				"name": "8888",
+                                 "type": 0,
+                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
+                                  "ua": "judy/5.2.1",   
+                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},
 
         {
 		  		"name": "港台Zhoulyf ZB",
@@ -1331,14 +1296,6 @@
             "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
         },
         
-        {
-            "name": " 港台chao直播",
-            "type": 0,
-            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
-        },
         
 
 
@@ -1472,7 +1429,51 @@
 		
 	
 
-	
+	{
+            "name": "BJYD(EPG-1天回看)",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE1SUB",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "BJYD(EPG-2天回看)",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE2SUB",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "BJYD(EPG-3天回看)",
+            "type": 0,
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE3SUB",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
+        },
+        {
+            "name": "BIPTV(IPV6,可回看)",
+            "type": 0,
+            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/biptv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
+        },
+
 	
 
 
