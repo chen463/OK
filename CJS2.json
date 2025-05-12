@@ -1119,23 +1119,23 @@
 	
 	
 	{
-          "name": "香港直播",
+          "name": "香港直播 IJL硬解",
           "type":"0",
           "pass": true,
           "url":"https://smart.pendy.dpdns.org/m3u/Smart.m3u",
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
-	
-
-       {
-          "name": "港台 jun直播",
+      {
+          "name": "港台WorkTV直播",
           "type":"0",
           "pass": true,
-          "url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/Alan_result.txt",
+          "url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt",
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },				
+        },	
+
+       				
 	
 			
 	{
@@ -1203,15 +1203,15 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
 	
-        {
-          "name": "港台WorkTV直播",
+        
+       {
+          "name": "港台 jun直播",
           "type":"0",
           "pass": true,
-          "url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt",
+          "url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/Alan_result.txt",
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
-       
       
      {
             "name": "Gather.电视直播",
@@ -1647,7 +1647,23 @@
             "timeout": 10,
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },   		
+        }, 
+
+
+ {
+            "name": "Judy SMart",
+            "type": 0,
+            "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u",
+            "ua": "judy/5.2.1",
+	     "playerType": 2,
+             "timeout": 10,
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },     
+
+
+
+  		
 
        {
             "name": "mytvsuper",
