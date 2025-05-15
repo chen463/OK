@@ -1130,7 +1130,7 @@
             "name": "港台 ZB直播",
             "type": 0,
             "pass": true,
-	    "url": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/ALL.txt",
+	    "url": "https://iptv.wwkejishe.top/ALL.m3u",
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
