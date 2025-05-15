@@ -1103,7 +1103,16 @@
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },	
 
-       				
+       	{
+            "name": "mytv港·澳·韩·台直播",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt",
+            "ua": "okhttp/3.15",
+            "playerType": 2,
+            "timeout": 10,
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },			
 	
 			
 	{
@@ -1116,15 +1125,17 @@
                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	},
 	
-	{
-          "name": "港台 666直播",
-          "type":"0",
-          "pass": true,
-          "url": "http://api.mytv666.top/lives/free.php?type=txt",
-          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	
+       {
+            "name": "港台 ZB直播",
+            "type": 0,
+            "url": "https://iptv.wwkejishe.top/ALL.m3u",
+            "ua": "okhttp/3.15",
+            "playerType": 2,
+            "timeout": 10,
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
-       
 
 
 	{
@@ -1139,16 +1150,7 @@
        
 	
 			
-	{
-            "name": "mytv港·澳·韩·台直播",
-            "type": 0,
-            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt",
-            "ua": "okhttp/3.15",
-            "playerType": 2,
-            "timeout": 10,
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
+	
 			
 	
 	{
@@ -1171,6 +1173,16 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
 	
+       {
+          "name": "港台 666直播",
+          "type":"0",
+          "pass": true,
+          "url": "http://api.mytv666.top/lives/free.php?type=txt",
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
+
+
         {
           "name": "香港直播 IJL硬解",
           "type":"0",
@@ -1179,7 +1191,8 @@
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
-       {
+       
+{
           "name": "港台 jun直播",
           "type":"0",
           "pass": true,
