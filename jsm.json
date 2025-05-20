@@ -1129,7 +1129,7 @@
        {
             "name": "港台 ZB直播",
             "type": 0,
-            "url": "https://iptv.wwkejishe.top/ALL.m3u",
+            "url": "http://127.0.0.1:10079/p/0/proxy/https://iptv.wwkejishe.top/ALL.m3u",
             "ua": "okhttp/3.15",
             "playerType": 2,
             "timeout": 10,
@@ -1692,7 +1692,7 @@
  {
             "name": "Judy SMart",
             "type": 0,
-            "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u",
+            "url": "http://127.0.0.1:10079/p/0/proxy/https://smart.pendy.dpdns.org/m3u/Smart.m3u",
             "ua": "judy/5.2.1",
 	     "playerType": 2,
              "timeout": 10,
