@@ -1189,9 +1189,9 @@
         },
         
         {
-            "name": "iptv365直播",
+            "name": "香港视频 - 安卓",
             "type": 0,
-            "url": "https://live.iptv365.org/live.txt",
+            "url": "http://127.0.0.1:10079/p/0/proxy/https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
             "ua": "okhttp/3.15",
             "playerType": 2,
             "timeout": 10,
