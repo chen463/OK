@@ -1143,8 +1143,7 @@
             "type": 0,
             "pass": true,
 	    "url": "http://127.0.0.1:10079/p/0/proxy/https://iptv.wwkejishe.top/ALL.m3u",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+           
         },
 
 			
