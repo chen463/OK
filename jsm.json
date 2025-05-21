@@ -1138,25 +1138,9 @@
         },			
 	   
        
-	{
-            "name": "港台 ZB直播",
-            "type": 0,
-            "pass": true,
-	    "url": "http://127.0.0.1:10079/p/0/proxy/https://iptv.wwkejishe.top/ALL.m3u",
-           
-        },
-
+	
 			
-	 {
-      "name": "电视家",
-      "type": 0,
-      "url": "http://live.nctv.top/x.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 2,
-      "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
-    },
-    
+	
 			
 	
 	{
@@ -1180,22 +1164,13 @@
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
 
- {
-            "name": "SMart MytvSuper",
-            "type": 0,
-            "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-            "ua": "judy/5.2.1",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },     
-	    
 
          {
             "name": " SmartJudy 直播",
             "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
             "ua": "xieanqishiwoerzi/0.0.1",
-             "playerType": 2,
+            "playerType": 2,
             "timeout": 10,
 
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
@@ -1207,9 +1182,7 @@
           "type":"0",
           "pass": true,
           "url":"http://127.0.0.1:10079/p/0/proxy/https://smart.pendy.dpdns.org/m3u/Smart.m3u",
-          "ua": "okhttp/3.15",
-	  "playerType": 1,
-	   "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
        
@@ -1331,6 +1304,14 @@
         },
 
 
+{
+            "name": "港台 ZB直播",
+            "type": 0,
+            "pass": true,
+	    "url": "http://127.0.0.1:10079/p/0/proxy/https://iptv.wwkejishe.top/ALL.m3u",
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
 
 
 
@@ -1718,7 +1699,16 @@
         }, 
 
 
-
+ {
+            "name": "Judy SMart",
+            "type": 0,
+            "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+            "ua": "judy/5.2.1",
+	     "playerType": 2,
+             "timeout": 10,
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },     
 
 
 
