@@ -1138,9 +1138,27 @@
         },			
 	   
        
-	
+	{
+            "name": "港台 ZB直播",
+            "type": 0,
+	    "url": "http://127.0.0.1:10079/p/0/proxy/https://iptv.wwkejishe.top/ALL.m3u",
+	    "ua": "okhttp/3.15",
+             "playerType": 2
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
+
 			
-	
+	 {
+      "name": "电视家",
+      "type": 0,
+      "url": "http://live.nctv.top/x.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 2,
+      "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
+    },
+    
 			
 	
 	{
@@ -1191,7 +1209,9 @@
           "type":"0",
           "pass": true,
           "url":"http://127.0.0.1:10079/p/0/proxy/https://smart.pendy.dpdns.org/m3u/Smart.m3u",
-          "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
+          "ua": "okhttp/3.15",
+	  "playerType": 1,
+	   "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
        
@@ -1313,14 +1333,6 @@
         },
 
 
-{
-            "name": "港台 ZB直播",
-            "type": 0,
-            "pass": true,
-	    "url": "http://127.0.0.1:10079/p/0/proxy/https://iptv.wwkejishe.top/ALL.m3u",
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
 
 
 
