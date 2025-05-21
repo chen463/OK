@@ -1142,7 +1142,7 @@
       "name": "电视家",
       "type": 0,
       "url": "http://live.nctv.top/x.txt",
-      "ua": "okhttp/3",
+      "ua": "okhttp/3.15",
       "playerType": 2,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
@@ -1184,7 +1184,25 @@
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111..112114.xyz/logo/{name}.png"
         },  
+{
+      "name": "猫TV线路  rihou(IJK)",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
 
+	{
+      "name": "猫TV线路 Smart (IJK)",
+      "type": 0,
+      "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },    
         {
           "name": " Smart香港直播 IJL硬解",
           "type":"0",
