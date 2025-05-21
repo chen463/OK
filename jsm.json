@@ -1144,7 +1144,7 @@
 			
 	
 	{
-            "name": " 港台chao直播",
+            "name": " 港台alantang1977-SuperMAN",
             "type": 0,
             "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u",
             "ua": "okhttp/3.15",
@@ -1155,10 +1155,11 @@
        
 	
        {
-          "name": "港台 666直播",
-          "type":"0",
-          "pass": true,
-          "url": "http://api.mytv666.top/lives/free.php?type=txt",
+          "name":"rihou 晴天P2P",
+          "type":0,
+          "url":"http://rihou.cc:555/qtsd",
+          "playerType":2,
+          "ua":"okhttp/3.15",
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
@@ -1167,7 +1168,7 @@
          {
             "name": " SmartJudy 直播",
             "type": 0,
-            "url": ""https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+            "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
             "ua": "xieanqishiwoerzi/0.0.1",
              "playerType": 2,
             "timeout": 10,
