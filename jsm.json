@@ -1216,7 +1216,7 @@
           "name": " GO ",
           "type":"0",
           "pass": true,
-          "url":"https://cnb.cool/junchao.tang/llive/-/git/raw/main/go.txt,
+          "url":"https://cnb.cool/junchao.tang/llive/-/git/raw/main/go.txt",
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
