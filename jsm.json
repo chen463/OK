@@ -1112,7 +1112,14 @@
           "epg": "https://diyp1111.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },	
-
+{
+				"name": "zheng197600 港台",
+                                 "type": 0,
+                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/zheng197600/tvbox/main/tv/电视直播.txt",
+                                  "ua": "judy/5.2.1",   
+                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},	
        	{
             "name": "mytv港·澳·韩·台直播",
             "type": 0,
@@ -1328,14 +1335,7 @@
 				           }
 	},		
 	
-	{
-				"name": "zheng197600 港台",
-                                 "type": 0,
-                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/zheng197600/tvbox/main/tv/电视直播.txt",
-                                  "ua": "judy/5.2.1",   
-                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	},			
+			
 	{
             "name": "港台 lugw27 home-iptv AKTV",
             "type": 0,
