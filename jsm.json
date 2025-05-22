@@ -1161,10 +1161,9 @@
 
 {
             "name": "咪咕 体育Smart",
-        
+            "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-            "ua": "judy/5.2.1",
-	  
+         
         },      
 	    
   
