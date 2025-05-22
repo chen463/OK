@@ -1158,14 +1158,13 @@
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111..112114.xyz/logo/{name}.png"
         },  
-{
-      "name": "咪咕 体育Smart Judy judy/5.2.1",
-      
+	    
+     {
+      "name": "咪咕 体育Smart Judy judy",
       "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
-    
       "ua": "judy/5.2.1",
    
-    },
+    }
 
 	{
       "name": "Smart (IJK)",
