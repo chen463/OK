@@ -1072,8 +1072,34 @@
                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	},     
 	
-	
-        
+	  {
+		  		"name": "港台Zhoulyf ZB",
+				"type": 0,
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/Zhoulyf/ZB/main/zhibo1.txt",
+				
+				"ua": "okhttp/3.15",
+				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	 },
+
+			
+        {
+				"name": "港台jgdsz zb2026yrys",
+				"type": 0,
+				"url": "https://www.notabug.org/jgyzb/jgdsz/raw/master/zb2026/2026yrys.txt",
+				"ua": "okhttp/3.15",
+				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},
+
+         {
+				"name": "8888",
+                                 "type": 0,
+                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
+                                  "ua": "judy/5.2.1",   
+                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},
 			
 	
 	
@@ -1192,35 +1218,9 @@
             "logo": "http://diyp1111.112114.xyz/logo/{name}.png"
         },
 
-       {
-				"name": "8888",
-                                 "type": 0,
-                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
-                                  "ua": "judy/5.2.1",   
-                                  "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	},
+      
 
-        {
-		  		"name": "港台Zhoulyf ZB",
-				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/Zhoulyf/ZB/main/zhibo1.txt",
-				
-				"ua": "okhttp/3.15",
-				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	 },
-
-			
-        {
-				"name": "港台jgdsz zb2026yrys",
-				"type": 0,
-				"url": "https://www.notabug.org/jgyzb/jgdsz/raw/master/zb2026/2026yrys.txt",
-				"ua": "okhttp/3.15",
-				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	},
-
+      
 
 
 
