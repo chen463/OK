@@ -1126,7 +1126,16 @@
     },
 
        
-
+{
+            "name": "pxiptv直播 IJK",
+            "type": 0,
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/pxiptv/live/main/iptv.m3u",
+            "ua": "okhttp/3.15",
+            "playerType": 1,
+            "timeout": 10,
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
 
 	{
           "name": "港台 auto-iptv直播",
@@ -1318,16 +1327,7 @@
         },
 
 
- {
-            "name": "iptv365直播",
-            "type": 0,
-            "url": "https://live.iptv365.org/live.txt",
-            "ua": "okhttp/3.15",
-            "playerType": 2,
-            "timeout": 10,
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
+ 
 
 
 {
