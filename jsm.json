@@ -1213,7 +1213,7 @@
       "logo": "https://diyp1111.112114.eu.org/logo/{name}.png"
     },    
         {
-            name": "小云直播",
+            "name": "小云直播",
             "url": "http://127.0.0.1:10079/p/0/proxy/http://a90120.serv00.net/anbox/小云直播.txt",
             "core": {
                 "auth": "local://tvbus",
