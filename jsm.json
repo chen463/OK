@@ -1061,7 +1061,15 @@
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
          },
-			
+ {
+				"name": "央视卫视",
+				"type": 0,
+				"url": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/result.txt",
+				
+				"ua": "okhttp/3.15",
+				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE6SUB",
+                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},			
   {
 				"name": "港·澳·台",
 				"type": 0,
@@ -1101,7 +1109,17 @@
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	},
 			
-	
+	{
+            "name": "SuperNinjap",
+            "type": 0,
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/tv.txt",
+            "ua": "okhttp/3.15",
+            "playerType": 2,
+            "timeout": 10,
+            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+        },
+       
 	
 	
       {
@@ -1386,15 +1404,7 @@
             }
         },
 
-       {
-				"name": "央视卫视",
-				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/result.txt",
-				
-				"ua": "okhttp/3.15",
-				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE6SUB",
-                                  "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-	},
+      
 
       
  
@@ -1402,17 +1412,7 @@
 	
 	
 			
-	{
-            "name": "咪咕直播",
-            "type": 0,
-            "url": "https://yun.urldwz.com/f/Q6y3ca/migu.m3u",
-            "ua": "okhttp/3.15",
-            "playerType": 2,
-            "timeout": 10,
-            "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
-        },
-       
+	
 
    
       {
