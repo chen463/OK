@@ -1152,12 +1152,7 @@
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },			
 	
- {
-      "name": "斯玛特全球直播",
-      "type": 2,
-      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-     
-    }	
+
 		
 
        
