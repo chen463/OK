@@ -1323,10 +1323,10 @@
 
 
 {
-            "name": "港台 ZB直播",
+            "name": "港台 codeberg momo1314",
             "type": 0,
             "pass": true,
-	    "url": "http://127.0.0.1:10079/p/0/proxy/https://iptv.wwkejishe.top/ALL.m3u",
+	    "url": "https://codeberg.org/momo1314/momo/raw/branch/main/2.txt",
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
         },
