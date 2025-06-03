@@ -208,9 +208,7 @@
                 "type": "list",
                 "ratio": 1.1
             }
-        },
-       
-        
+        },  
         {
             "key": "PikPakShare",
             "name": "PikPak分享",
