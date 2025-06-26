@@ -1034,7 +1034,7 @@
             "type": 3,
             "searchable": 0,
             "api": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/live2vod.js",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/live.json"
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/chen463/OK/main/live.json"
         }
     ],
     "lives": [
@@ -1044,7 +1044,7 @@
        {
             "name": "广东频道",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/gddx_fofa.txt",
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/gddx_fofa.txt",
             "ua": "okhttp/3.15",
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
@@ -1053,7 +1053,7 @@
        {
             "name": "广东频道2",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/yewengood/gdtv/main/speedtest/gdtv_fofa.txt",
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/yewengood/gdtv/main/speedtest/gdtv_fofa.txt",
             "ua": "okhttp/3.15",
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
@@ -1062,7 +1062,7 @@
        {
             "name": "广东频道3",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/Guangdong.txt",
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/Guangdong.txt",
             "ua": "okhttp/3.15",
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
@@ -1074,7 +1074,7 @@
  {
 				"name": "央视卫视",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/result.txt",
+				"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/chen463/OK/main/result.txt",
 				
 				"ua": "okhttp/3.15",
 				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date=DATE6SUB",
@@ -1093,7 +1093,7 @@
 	  {
 		  		"name": "港台Zhoulyf ZB",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/Zhoulyf/ZB/main/zhibo1.txt",
+				"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/Zhoulyf/ZB/main/zhibo1.txt",
 				
 				"ua": "okhttp/3.15",
 				 "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
@@ -1132,7 +1132,7 @@
          {
 				"name": "8888",
                                  "type": 0,
-                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
+                                 "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ffmking/tv1/main/888.txt",
                                   "ua": "judy/5.2.1",   
                                   "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
@@ -1141,7 +1141,7 @@
 	{
             "name": "SuperNinjap",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/tv.txt",
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/tv.txt",
             "ua": "okhttp/3.15",
             "playerType": 2,
             "timeout": 10,
@@ -1162,7 +1162,7 @@
 {
 				"name": "zheng197600 港台",
                                  "type": 0,
-                                 "url": "https://slink.ltd/https://raw.githubusercontent.com/zheng197600/tvbox/main/tv/电视直播.txt",
+                                 "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/zheng197600/tvbox/main/tv/电视直播.txt",
                                   "ua": "judy/5.2.1",   
                                   "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                   "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
@@ -1170,7 +1170,7 @@
        	{
             "name": "mytv港·澳·韩·台直播",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt",
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt",
             "ua": "okhttp/3.15",
             "playerType": 2,
             "timeout": 10,
@@ -1364,7 +1364,7 @@
        {
 				"name": "港台 frxz751113",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/网络收集.txt",
+				"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/网络收集.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://diyp1111.112114.xyz/logo/{name}.png",
@@ -1388,7 +1388,7 @@
 {
             "name": "港台lugw27 IPV4",
             "type": 0,
-            "url": "https://slink.ltd/https://raw.githubusercontent.com/lugw27/myIPTV/main/ipv4.m3u",
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lugw27/myIPTV/main/ipv4.m3u",
             "ua": "okhttp/3.15",
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1406,7 +1406,7 @@
 	{
 				"name": "lbxxxtw2 hk txt",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/lbxxxtw2/iptv/refs/heads/master/output/tv.txt",
+				"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lbxxxtw2/iptv/refs/heads/master/output/tv.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
@@ -1439,7 +1439,7 @@
       {
 				"name": "自用IPTV",
 				"type": 0,
-				"url": "https://slink.ltd/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/iptv.txt",
+				"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/SuperNinjap/tvbox/main/iptv.txt",
 				"ua": "okhttp/3.15",
 				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://diyp1111.112114.xyz/logo/{name}.png",
@@ -1682,7 +1682,7 @@
        {
  				"name": "广东网页",
                                   "type": 0,
-                                  "url": "https://slink.ltd/https://raw.githubusercontent.com/chen463/OK/main/GDTV_web.txt",
+                                  "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/chen463/OK/main/GDTV_web.txt",
                                    "ua": "judy/5.2.1",   
                                    "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                    "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
@@ -2082,5 +2082,5 @@
     ],
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "logo": "https://slink.ltd/https://raw.githubusercontent.com/fish2018https://cnb.cool/fish2018/pg/-/git/raw/master/lib/refs/heads/main/imgs/pg.gif"
+    "logo": "https://gh.tryxd.cn/https://raw.githubusercontent.com/fish2018https://cnb.cool/fish2018/pg/-/git/raw/master/lib/refs/heads/main/imgs/pg.gif"
 }
