@@ -1122,7 +1122,17 @@
 				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
                                 "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
 	},     
-	
+{
+				"name": "港·澳·台 2",
+				"type": 0,
+				"url": "http://rihou.cc:555/gggg.nzk",
+				"ua": "judy/5.2.1",
+	                        "playerType": 2,
+				"epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
+                                "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
+	},     
+        
+	    
 	  {
 		  		"name": "港台Zhoulyf ZB",
 				"type": 0,
