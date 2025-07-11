@@ -2,7 +2,7 @@
 广东4k超网页,video://https://www.gdtv.cn/tvChannelDetail/16 
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,WebView://https://www.gdtv.cn/tvChannelDetail/45
+广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
 广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
 广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
 大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
