@@ -1052,7 +1052,7 @@
 {
             "name": "广东频道汇总",
             "type": 0,
-            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/chen463/iptv-GD/refs/heads/master/output/user_result.txt",
+            "url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/chen463/iptv-GD/refs/heads/master/output/user_result.tx",
             "ua": "okhttp/3.15",
             "epg": "http://diyp1111.112114.xyz/?ch={name}&date={date}",
             "logo": "https://diyp1111.112114.xyz/logo/{name}.png"
